@@ -1,3 +1,4 @@
+
 def addition(num1, num2)
   num1 + num2
 
@@ -20,5 +21,5 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  num1 square_root num2
+  Math.sqrt(num)
 end
